@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(185, 137, 107);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 929px;
+}
+
+.center {
+    background-color: rgb(234, 121, 22) ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 800px;
+    height: 300px;
+}
+
+h2{
+    text-align: left;
+    padding: 10px 30px;
+}
+
+p{
+    text-align: justify;
+    padding: 10px 30;
+}
+
+
+

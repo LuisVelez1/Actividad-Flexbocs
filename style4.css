@@ -1,0 +1,14 @@
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+.images img{
+   width: 400px;
+   height: 400px;
+   margin: 20px;
+}
